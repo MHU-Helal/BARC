@@ -5,11 +5,16 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
+    "start": "vite",
     "build": "vite build",
     "preview": "vite preview"
   },
   "dependencies": {
-    "vue": "^3.5.13"
+    "vue": "^3.5.13",
+    "axios": "^1.9.0",
+    "bootstrap": "^5.3.5",
+    "vue-router": "^4.5.1",
+    "bootstrap-icons": "^1.11.3"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^5.2.2",
