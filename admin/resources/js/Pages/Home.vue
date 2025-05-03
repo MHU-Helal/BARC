@@ -15,11 +15,10 @@
               <div class="col-md-12 mb-4">
                 <div class="card h-100 shadow-sm">
                   <div class="card-body d-flex flex-column">
-                    <h5 class="card-title">Start the Quiz</h5>
-                    <p class="card-text">Test your knowledge with a short quiz.</p>
-                    <button class="btn btn-primary mt-auto" @click="goToQuiz">
-                      <i class="bi bi-question-circle me-1"></i>Quiz
-                    </button>
+                    <h5 class="card-title"><button class="btn btn-primary mt-auto" @click="goToQuiz">
+                      EXAM-1
+                    </button></h5>
+                    
                   </div>
                 </div>
               </div>
